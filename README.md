@@ -1,6 +1,7 @@
 # toss_coin
 
 A new Flutter project.
+This is a basic flutter project which can be used to perform a toss.
 
 ## Getting Started
 
