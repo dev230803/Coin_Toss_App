@@ -38,9 +38,12 @@ class _NewTossState extends State<NewToss> with SingleTickerProviderStateMixin{
   }
   @override
   void dispose() {
+        
     // TODO: implement dispose
+    
     _controller.dispose();
     super.dispose();
+    
     
   }
   @override
